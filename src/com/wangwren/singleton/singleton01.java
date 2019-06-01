@@ -1,4 +1,4 @@
 package com.wangwren.singleton;
 
-public class singleton01 {
+public class Singleton01 {
 }
