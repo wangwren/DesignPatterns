@@ -8,7 +8,7 @@ package com.wangwren.singleton;
  *  这种方式可以说是完美了，但是有点复杂。
  */
 public class Singleton05 {
-    private static Singleton05 INSTANCE;
+    private volatile static Singleton05 INSTANCE;
 
     private Singleton05(){}
 

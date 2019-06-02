@@ -5,6 +5,8 @@ package com.wangwren.singleton;
  * 由JVM保证单例，线程安全。
  *
  * 加载外部类时，不会加载内部类，这样可以实现懒加载
+ *
+ * 该方式就可以是很完美了。
  */
 public class Singleton06 {
 
