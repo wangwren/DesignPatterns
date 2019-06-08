@@ -38,3 +38,21 @@
 
 ## Command
 ![](https://imagebed-1259286100.cos.ap-beijing.myqcloud.com/img/Command.png)
+
+## Prototype
+### Java中的克隆
+![](https://imagebed-1259286100.cos.ap-beijing.myqcloud.com/img/prototype.png)
+
+## Memento -> java.io.Serializable
+![](https://imagebed-1259286100.cos.ap-beijing.myqcloud.com/img/memento.png)
+
+## TemplateMethod
+![](https://imagebed-1259286100.cos.ap-beijing.myqcloud.com/img/TemplateMethod.png)
+
+## State
+![](https://imagebed-1259286100.cos.ap-beijing.myqcloud.com/img/state.png)
+
+![](https://imagebed-1259286100.cos.ap-beijing.myqcloud.com/img/state1.png)
+
+## 设计模式列表
+![](https://imagebed-1259286100.cos.ap-beijing.myqcloud.com/img/dp.png)
